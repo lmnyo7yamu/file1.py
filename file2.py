@@ -1,2 +1,1 @@
-def multiply_numbers(a, b):
-    return a * b
+print("Hello World 2")
